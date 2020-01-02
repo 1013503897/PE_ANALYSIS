@@ -1,0 +1,3 @@
+# PE_ANALYSIS
+基于MFC的PE解析器，界面设计模仿CFF解析器
+openssl库和BeaEngine未包含在内，如需编译运行请自行下载和进行项目配置
