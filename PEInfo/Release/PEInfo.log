@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  DownView.cpp
+  PEInfo.cpp
+  PEInfoDlg.cpp
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(138,36): warning C4101: “tmpLen”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(799,10): warning C4101: “wsz”: 未引用的局部变量
+  TableInfoDlg.cpp
+  UpView.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(361): warning C4715: “CPEInfoDlg::GetVariableSize”: 不是所有的控件路径都返回值
+  All 261 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PEInfo.vcxproj -> D:\source\PEInfo\Release\PEInfo.exe
