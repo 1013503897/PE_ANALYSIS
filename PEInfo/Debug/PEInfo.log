@@ -1,0 +1,18 @@
+﻿  PEInfoDlg.cpp
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(179,36): warning C4101: “tmpLen”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(312,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(344,10): warning C4101: “SubBlock3”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(354,10): warning C4101: “SubBlock4”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(334,10): warning C4101: “SubBlock2”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1004,10): warning C4101: “wsz”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1334,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1344,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1350,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1326,32): warning C4101: “AddressOfNames_FOA”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1326,8): warning C4101: “AddressOfFunctions_FOA”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1326,52): warning C4101: “AddressOfNameOrdinals_FOA”: 未引用的局部变量
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1638,21): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1643,22): warning C4566: 由通用字符名称“\u00C1”表示的字符不能在当前代码页(936)中表示出来
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(1674,22): warning C4244: “初始化”: 从“UInt64”转换到“unsigned int”，可能丢失数据
+D:\source\PEInfo\PEInfo\PEInfoDlg.cpp(521): warning C4715: “CPEInfoDlg::GetVariableSize”: 不是所有的控件路径都返回值
+  PEInfo.vcxproj -> D:\source\PEInfo\Debug\PEInfo.exe
